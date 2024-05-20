@@ -1,0 +1,95 @@
+{
+  "personalInfo": {
+    "location": "New York, New York",
+    "name": "John Doe",
+    "linkedin": "linkedin.com/in/johndoe/",
+    "email": "john.doe@example.com",
+    "phone": "+1-(555)-555-5555",
+    "github": "github.com/johndoe"
+  },
+  "summaries": {
+    "Full Stack Summary": "Experienced software engineer with expertise in developing full-stack applications using various technologies.",
+    "Front End Summary": "Skilled front-end developer with a focus on creating intuitive and responsive user interfaces.",
+    "Back End Summary": "Proficient back-end developer with experience in building scalable server-side applications and APIs."
+  },
+  "experiences": {
+    "seniorSoftwareEngineer": {
+      "title": "Senior Software Engineer",
+      "company": "Tech Solutions",
+      "location": "San Francisco, CA",
+      "dates": "Jan 22 – Present",
+      "bullets": {
+        "Full Stack": [
+          { "id": 1, "description": "Developed and maintained full-stack applications, ensuring high performance and scalability." },
+          { "id": 2, "description": "Led the integration of new technologies to improve system efficiency." }
+        ],
+        "Front End": [
+          { "id": 11, "description": "Implemented responsive designs to enhance user experience across various devices." },
+          { "id": 22, "description": "Optimized front-end performance, reducing load times significantly." }
+        ],
+        "Back End": [
+          { "id": 111, "description": "Designed and developed RESTful APIs for seamless data exchange." },
+          { "id": 222, "description": "Implemented security measures to protect sensitive data." }
+        ]
+      }
+    },
+    "softwareEngineer": {
+      "title": "Software Engineer",
+      "company": "Innovatech",
+      "location": "Austin, TX",
+      "dates": "Jul 19 – Dec 21",
+      "bullets": {
+        "Full Stack": [
+          { "id": 3, "description": "Collaborated with cross-functional teams to develop and deploy web applications." },
+          { "id": 4, "description": "Utilized various technologies to build and maintain application features." }
+        ]
+      }
+    },
+    "userAssistanceDeveloper": {
+      "title": "User Assistance Developer",
+      "company": "Global Tech",
+      "location": "Seattle, WA",
+      "dates": "Jun 16 – Jun 19",
+      "bullets": {
+        "Full Stack": [
+          { "id": 5, "description": "Developed user guides and technical documentation for software products." },
+          { "id": 6, "description": "Worked with development teams to improve product usability and performance." }
+        ]
+      }
+    }
+  },
+  "skills": [
+    "Node.js",
+    "React",
+    "Redux",
+    "AWS (Lambda, EC2, S3, SQS)",
+    "Mocha",
+    "Chai",
+    "Jenkins",
+    "Docker",
+    "Git",
+    "Bash",
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "MySQL",
+    "MongoDB"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "New York University",
+      "year": "2017",
+      "location": "New York, NY",
+      "gpa": "3.7/4.0"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California",
+      "year": "2014",
+      "location": "Los Angeles, CA",
+      "gpa": "3.6/4.0"
+    }
+  ]
+}
